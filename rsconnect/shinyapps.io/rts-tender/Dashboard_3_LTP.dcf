@@ -1,0 +1,13 @@
+name: Dashboard_3_LTP
+title: Dashboard_3_LTP
+username:
+account: rts-tender
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5932847
+bundleId: 5725523
+url: https://rts-tender.shinyapps.io/Dashboard_3_LTP/
+when: 1648194157.19302
+lastSyncTime: 1648194157.19302
+asMultiple: FALSE
+asStatic: FALSE
